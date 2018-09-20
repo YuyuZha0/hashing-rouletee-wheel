@@ -3,8 +3,8 @@ a java implemention of roulette wheel,for usage such as weighted grouping
 
 ## Example:
 
-@Test
-  public void test4() {
+    @Test
+    public void test4() {
     List<RouletteOption<String>> scheme = new ArrayList<>();
     scheme.add(RouletteOption.of("Group0", 3));
     scheme.add(RouletteOption.of("Group1", 20));
