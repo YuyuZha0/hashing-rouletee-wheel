@@ -1,4 +1,4 @@
-# hashing-rouletee-wheel
+# hashing-roulette-wheel
 a java implemention of roulette wheel,for usage such as weighted grouping
 
 ## Example:
