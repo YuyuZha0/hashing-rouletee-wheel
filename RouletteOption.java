@@ -1,5 +1,3 @@
-package com.ifeng.dmp.ctrp.roulette;
-
 import java.util.Map;
 import java.util.Objects;
 
