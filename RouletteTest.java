@@ -1,5 +1,3 @@
-package com.ifeng.dmp.ctrp.roulette;
-
 import org.junit.Test;
 
 import java.util.*;
