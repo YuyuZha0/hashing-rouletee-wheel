@@ -25,4 +25,6 @@ a java implemention of roulette wheel,for usage such as weighted grouping
       }
     }
     System.out.println(map);
-  }
+   }
+   
+   //{Group1=17984, Group2=27238, Group0=9163, Group3=45615}
